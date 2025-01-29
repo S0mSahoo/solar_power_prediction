@@ -1,2 +1,2 @@
-# solar_power_prediction_week_1
+# solar_power_prediction
 Predicting Solar Power Output using Linear Regression
